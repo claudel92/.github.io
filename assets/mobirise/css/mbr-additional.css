@@ -1,0 +1,66 @@
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+
+
+
+
+
+
+
+
+
+#ext_menu-0 .navbar-toggler {
+  color: #000;
+}
+#ext_menu-0 .navbar-brand {
+  font-family: 'Indie Flower', cursive;
+  font-size: 23px;
+}
+#ext_menu-0 .nav-link {
+  font-family: 'Indie Flower', cursive;
+}
+#ext_menu-0 .nav-link SPAN {
+  font-size: 18px;
+}
+#header4-2 B {
+  font-family: 'Indie Flower', cursive;
+  font-size: 80px;
+}
+#header4-2 H1 {
+  text-align: center;
+}
+#header4-2 .btn {
+  font-family: 'Indie Flower', cursive;
+}
+#header4-2 P {
+  color: #0275d8;
+  font-family: 'Indie Flower', cursive;
+}
+#header4-2 I {
+  font-size: 32px;
+  color: #000000;
+}
+#content5-6 .mbr-section-title {
+  font-family: 'Oxygen', sans-serif;
+}
+#content5-6 P {
+  font-size: 30px;
+}
+#content1-e P {
+  font-size: 22px;
+  font-family: 'Oxygen', sans-serif;
+  text-align: center;
+}
+#form2-g .btn {
+  font-size: 22px;
+  font-family: 'Oswald', sans-serif;
+}
+#form2-g .mbr-section-title I {
+  font-size: 48px;
+  font-family: 'Open Sans', sans-serif;
+}
+#footer1-c P {
+  text-align: center;
+}
